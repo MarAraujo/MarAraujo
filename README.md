@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MarAraujo/assets/blob/main/love-tech.png?raw=true" width="120" alt="Love for Technology"/>
+  <img src="https://i.imgur.com/HlI4J4g.png" alt="Love Technology" width="800"/>
 </p>
 
 <h1 align="center">Hello, I am MarAraujo 👋</h1>
