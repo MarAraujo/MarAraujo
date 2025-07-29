@@ -1,22 +1,24 @@
 <h1 align="center">Hello, I am MarAraujo 👋</h1>
 
 <p align="center">
-  Software Engineer | Java Developer | IoT Enthusiast
+  Electronics Engineer | Embedded | Developer | IoT & PCB Design Enthusiast
 </p>
 
 ---
 
 ## 🚀 About Me | Sobre mim
 
-🎓 Developer focused on **Java, C++, JavaScript, C, and Python**.  
-🔧 Interested in **embedded systems**, **IoT**, **ESP32 firmware**, and **Artificial Intelligence** projects.  
-📘 Currently deepening knowledge in **software engineering, frameworks, and intelligent systems automation**.  
-📍 Open to new challenges and opportunities!
+👨‍💻 I'm an **Electronics Engineer** and future **System Analyst**, passionate about embedded systems, hardware design and intelligent software.  
+🔧 I have experience with **ESP32 firmware**, **PCB layout and prototyping**, **automated testing**, and development of **IoT-focused microcontroller software**.  
+🧠 I'm currently deepening knowledge in **Java, C/C++, Python, AI, Android Embedded**, and **PCB design tools** like **KiCad** and **Altium Designer**.  
+🧩 I enjoy solving complex problems, working collaboratively, and constantly learning new technologies.  
+📍 Open to international opportunities and challenging environments in embedded systems, software engineering and smart devices.
 
-🎓 Desenvolvedor com foco em **Java, C++, JavaScript, C e Python**.  
-🔧 Interesse em **aplicações embarcadas**, **IoT**, **firmwares com ESP32**, além de projetos de **Inteligência Artificial**.  
-📘 Atualmente aprofundando conhecimentos em **engenharia de software, frameworks e automação de sistemas inteligentes**.  
-📍 Aberto a novos desafios e oportunidades!
+👨‍💻 Sou **Engenheiro Eletrônico** e futuro **Analista de Sistemas**, apaixonado por sistemas embarcados, projeto de hardware e software inteligente.  
+🔧 Tenho experiência com **firmwares para ESP32**, **layout e prototipagem de PCBs**, **testes automatizados** e desenvolvimento de **software para microcontroladores voltado a IoT**.  
+🧠 Atualmente aprofundo conhecimentos em **Java, C/C++, Python, IA, Android Embarcado** e ferramentas de PCB como **KiCad** e **Altium Designer**.  
+🧩 Gosto de resolver problemas complexos, atuar em equipe e estar sempre aprendendo novas tecnologias.  
+📍 Aberto a oportunidades internacionais e ambientes desafiadores na área de sistemas embarcados, engenharia de software e dispositivos inteligentes.
 
 ---
 
