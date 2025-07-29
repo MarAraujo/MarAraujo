@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MarAraujo/MarAraujo/blob/main/inteligencia-artificial.png" width="800" alt="Technology & Innovation"/>
+  <img src="https://github.com/MarAraujo/MarAraujo/blob/main/inteligencia-artificial.png" width="400" alt="Technology & Innovation"/>
 </p>
 
 <h1 align="center">Hello, I am MarAraujo 👋</h1>
