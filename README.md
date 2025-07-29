@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.github.com/MarAraujo/MarAraujo/blob/main/inteligencia-artificial.png" width="800" alt="Technology & Innovation"/>
+</p>
+
 <h1 align="center">Hello, I am MarAraujo 👋</h1>
 
 <p align="center">
