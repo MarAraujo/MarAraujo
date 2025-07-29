@@ -8,13 +8,13 @@
 
 ## 🚀 About Me | Sobre mim
 
-👨‍💻 I'm an **Electronics Engineer** and future **System Analyst**, passionate about embedded systems, hardware design and intelligent software.  
+👨‍💻 I'm an **Electronics Engineer** and **System Analyst**, passionate about embedded systems, hardware design and intelligent software.  
 🔧 I have experience with **ESP32 firmware**, **PCB layout and prototyping**, **automated testing**, and development of **IoT-focused microcontroller software**.  
 🧠 I'm currently deepening knowledge in **Java, C/C++, Python, AI, Android Embedded**, and **PCB design tools** like **KiCad** and **Altium Designer**.  
 🧩 I enjoy solving complex problems, working collaboratively, and constantly learning new technologies.  
 📍 Open to international opportunities and challenging environments in embedded systems, software engineering and smart devices.
 
-👨‍💻 Sou **Engenheiro Eletrônico** e futuro **Analista de Sistemas**, apaixonado por sistemas embarcados, projeto de hardware e software inteligente.  
+👨‍💻 Sou **Engenheiro Eletrônico** e **Analista de Sistemas**, apaixonado por sistemas embarcados, projeto de hardware e software inteligente.  
 🔧 Tenho experiência com **firmwares para ESP32**, **layout e prototipagem de PCBs**, **testes automatizados** e desenvolvimento de **software para microcontroladores voltado a IoT**.  
 🧠 Atualmente aprofundo conhecimentos em **Java, C/C++, Python, IA, Android Embarcado** e ferramentas de PCB como **KiCad** e **Altium Designer**.  
 🧩 Gosto de resolver problemas complexos, atuar em equipe e estar sempre aprendendo novas tecnologias.  
