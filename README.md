@@ -1,21 +1,26 @@
 <h1 align="center">Hello, I am MarAraujo 👋</h1>
 
 <p align="center">
-  Engenheiro de Software | Desenvolvedor Java | Entusiasta de IoT
+  Software Engineer | Java Developer | IoT Enthusiast
 </p>
 
 ---
 
-### 🚀 Sobre mim
+## 🚀 About Me | Sobre mim
 
-🎓 Desenvolvedor com foco em **Java, C++ e JavaScript**.  
+🎓 Developer focused on **Java, C++, JavaScript, C, and Python**.  
+🔧 Interested in **embedded systems**, **IoT**, **ESP32 firmware**, and **Artificial Intelligence** projects.  
+📘 Currently deepening knowledge in **software engineering, frameworks, and intelligent systems automation**.  
+📍 Open to new challenges and opportunities!
+
+🎓 Desenvolvedor com foco em **Java, C++, JavaScript, C e Python**.  
 🔧 Interesse em **aplicações embarcadas**, **IoT**, **firmwares com ESP32**, além de projetos de **Inteligência Artificial**.  
 📘 Atualmente aprofundando conhecimentos em **engenharia de software, frameworks e automação de sistemas inteligentes**.  
 📍 Aberto a novos desafios e oportunidades!
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools | Tecnologias & Ferramentas
 
 <p align="left">
   <!-- Linguagens -->
@@ -43,16 +48,16 @@
 
 ---
 
-### 📌 Repositórios em destaque
+## 📌 Featured Projects | Repositórios em destaque
 
-- 🎮 [the-first-project-java-game-of-xadrez](https://github.com/MarAraujo/the-first-project-java-game-of-xadrez) – Um jogo de xadrez simples em Java
-- 🤖 [fw-acesso-seguro-multivalidacao](https://github.com/MarAraujo/fw-acesso-seguro-multivalidacao) – Firmware em C++ para ESP32 com validação via MQTT
-- 📱 [android-embarcado-eldorado](https://github.com/MarAraujo/android-embarcado-eldorado) – Projeto final do curso do Instituto Eldorado
-- 📊 [alura-projeto-imersao-ia](https://github.com/MarAraujo/alura-projeto-imersao-ia) – Projeto com uso de IA para avaliar entendimento do usuário
+- 🎮 [the-first-project-java-game-of-xadrez](https://github.com/MarAraujo/the-first-project-java-game-of-xadrez) – A basic chess game developed in Java  
+- 🤖 [fw-acesso-seguro-multivalidacao](https://github.com/MarAraujo/fw-acesso-seguro-multivalidacao) – ESP32 firmware using MQTT for secure access  
+- 📱 [android-embarcado-eldorado](https://github.com/MarAraujo/android-embarcado-eldorado) – Final project for Eldorado Embedded Android course  
+- 📊 [alura-projeto-imersao-ia](https://github.com/MarAraujo/alura-projeto-imersao-ia) – AI-based project to evaluate user understanding
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarAraujo&show_icons=true&theme=tokyonight" height="150"/>
@@ -61,11 +66,11 @@
 
 ---
 
-### 📫 Vamos nos conectar?
+## 📫 Let’s connect | Vamos nos conectar?
 
-- [LinkedIn](https://www.linkedin.com/) _(adicione seu link aqui)_
-- E-mail: _seuemail@exemplo.com_
+- [LinkedIn](https://www.linkedin.com/in/mpoa)  
+- 📧 E-mail: marcelo.peter@hotmail.com
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Thank you for visiting my profile! | Obrigado por visitar meu perfil!
