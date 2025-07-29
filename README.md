@@ -38,7 +38,7 @@
 
   <!-- Eletrônica / PCB / Microcontroladores -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Arduino / Microcontroladores"/>
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/NOME-DO-REPOSITORIO/main/esp32.png" width="40" title="ESP32"/>
+  <img src="https://i.imgur.com/UZnpD9p.png" width="40" title="ESP32"/>
 
 
   <!-- Inteligência Artificial -->
