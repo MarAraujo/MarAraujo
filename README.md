@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/HlI4J4g.png" alt="Love Technology" width="800"/>
+  <img src="/media/images/noticia/1188x524/inteligencia-artificial.png" width="1188" height="524" alt="Como a tecnologia está mudando nossa percepção de mundo">
 </p>
 
 <h1 align="center">Hello, I am MarAraujo 👋</h1>
