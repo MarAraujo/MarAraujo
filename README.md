@@ -38,6 +38,7 @@
 
   <!-- Eletrônica / PCB / Microcontroladores -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Arduino / Microcontroladores"/>
+  <img src="https://raw.githubusercontent.com/marcoser87/esp32-icon/main/esp32-logo.png" width="40" title="ESP32"/>
 
   <!-- Inteligência Artificial -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="Inteligência Artificial (TensorFlow)"/>
