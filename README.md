@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/MarAraujo/assets/blob/main/love-tech.png?raw=true" width="120" alt="Love for Technology"/>
+</p>
+
 <h1 align="center">Hello, I am MarAraujo 👋</h1>
 
 <p align="center">
