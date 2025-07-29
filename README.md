@@ -35,16 +35,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 
   <!-- Eletrônica / PCB / Microcontroladores -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Electronic_circuit_icon.svg/1024px-Electronic_circuit_icon.svg.png" width="40" title="Eletrônica / PCB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Arduino / Microcontroladores"/>
+
+  <!-- Inteligência Artificial -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="Inteligência Artificial (TensorFlow)"/>
 
   <!-- Android e Android embarcado -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Android Embedded (Kotlin)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin / Android Embedded"/>
 
   <!-- Git e Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
 </p>
+
 
 ---
 
